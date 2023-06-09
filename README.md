@@ -12,7 +12,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=W1ESD&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-[![wiessaiy's 42 stats](https://badge.mediaplus.ma/kettlebells/wiessaiy)](https://github.com/oakoudad/badge42)
+[![wiessaiy's 42 stats](https://badge.mediaplus.ma/kettlebells/wiessaiy)](https://github.com/oakoudad/badge42) ![quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
