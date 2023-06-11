@@ -1,4 +1,4 @@
-![My Image](https://user-images.githubusercontent.com/34418187/202911326-559ae103-550c-40dc-a404-4c7ca2eeb777.gif)
+![My Image](https://user-images.githubusercontent.com/34418187/202911326-559ae103-550c-40dc-a404-4c7ca2eeb777.gif). [![wiessaiy's 42 stats](https://badge.mediaplus.ma/darkblue/wiessaiy)](https://github.com/oakoudad/badge42)
 
 ## Hi, I'm Wissam  👋
 
