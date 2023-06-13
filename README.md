@@ -10,5 +10,3 @@ Let's connect and work together on amazing projects! 😄
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/~W1ES#0114)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
