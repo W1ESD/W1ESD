@@ -16,4 +16,23 @@ Do you⁉️
 <p>Let's connect and work together on amazing projects! 😄</p>
 
 ## 🌐 Socials:
-<a href="https://discord.gg/~W1ES#0114"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://discord.gg/~W1ES#0114">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  <style>
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.1);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    img {
+      animation: pulse 2s infinite;
+    }
+  </style>
+</a>
