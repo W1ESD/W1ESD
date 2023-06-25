@@ -2,7 +2,21 @@
 
 <img src="https://user-images.githubusercontent.com/34418187/202911326-559ae103-550c-40dc-a404-4c7ca2eeb777.gif" alt="My Image">
 
-<p>I'm currently a 42network Student based in Morocco.</p>
+👨‍💻 I study Computer Science at 1337Benguerir(42netwrok)
+
+🤯 Currently working on the Commun Core projects.
+
+Details
+
+🧭 While constantly getting lost on a top of ⛰️ 🌋 or in the 🏜️ and in the 🏙️
+
+☕ Drinker who is eating programming memes for breakfast :trollface:
+
+💻 Aiming to build a better future for the next generations
+
+💡 I want to wake up in the morning and think the future is going to be great
+
+Do you⁉️
 
 <ul>
   <li>👯 I'm always interested in collaborating on exciting projects.</li>
