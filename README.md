@@ -4,7 +4,7 @@
 
 👨‍💻 I study Computer Science at 1337Benguerir(42netwrok)
 
-🤯 Currently working on the Commun Core projects.
+Currently working on the Commun Core projects.
 
 <ul>
       <li>👯 I'm always interested in collaborating on exciting projects.</li>
