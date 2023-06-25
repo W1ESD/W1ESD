@@ -6,21 +6,12 @@
 
 🤯 Currently working on the Commun Core projects.
 
-Details
-
-🧭 While constantly getting lost on a top of ⛰️ 🌋 or in the 🏜️ and in the 🏙️
-
-☕ Drinker who is eating programming memes for breakfast :trollface:
-
-💻 Aiming to build a better future for the next generations
+<ul>
+      <li>👯 I'm always interested in collaborating on exciting projects.</li>
+</ul>
 
 💡 I want to wake up in the morning and think the future is going to be great
-
 Do you⁉️
-
-<ul>
-  <li>👯 I'm always interested in collaborating on exciting projects.</li>
-</ul>
 
 <p>Let's connect and work together on amazing projects! 😄</p>
 
