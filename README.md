@@ -9,4 +9,4 @@ I'm currently studying **Computer Science** and have a passion for programming.
 Let's connect and work together on amazing projects! 😄
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/~W1ES#0114)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]  https://www.linkedin.com/in/wissam-essaiydy-a021b92a0/
