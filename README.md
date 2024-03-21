@@ -2,8 +2,10 @@
 
 ## Hi, I'm Wissam  👋
 
-I had pure sake of enjoyement when building softwares! 👨‍💻
+I build software purely for the enjoyment of it! 👨‍💻
 
-- 👯 I'm always interested in collaborating on exciting projects .
+👯 I'm always interested in collaborating on exciting projects.
 
 Let's connect and work together on amazing projects! 😄
+
+Feel free to contact me! 
