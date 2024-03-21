@@ -2,7 +2,7 @@
 
 ## Hi, I'm Wissam  👋
 
-Software Developer !
+I just have an absolute love For building softwares !
 
 - 👯 I'm always interested in collaborating on exciting projects .
 
